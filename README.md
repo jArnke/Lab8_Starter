@@ -8,3 +8,5 @@
 
 4) You could use unit testing to test a function that is part of the messaging pipeline which truncates the message length to max message len.
 
+
+![screenshot of tests](screenshot.png)
